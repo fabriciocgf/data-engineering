@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "559d8fe94dccf72b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c047effa787a3169",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Melhor Envio - Data Engineer.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c50f1fccbb8e479",
+    "type": "split",
+    "children": [
+      {
+        "id": "892325b50079d108",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b662fbb0b4a27110",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "86f856816f36017e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f82a544437d68c23",
+    "type": "split",
+    "children": [
+      {
+        "id": "24a64a3bd0c74d58",
+        "type": "tabs",
+        "dimension": 50.58479532163743,
+        "children": [
+          {
+            "id": "9215e5efc34d7ae9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Melhor Envio - Data Engineer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a21707ea34d6eb62",
+        "type": "tabs",
+        "dimension": 49.41520467836257,
+        "children": [
+          {
+            "id": "ee251b6d1c8e673d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353
+  },
+  "lastOpenFiles": [
+    "_Melhor Envio - Data Engineer.md",
+    "000 Database Model.md",
+    "Request.md",
+    "Latencia.md",
+    "Database Model.md",
+    "Tabela Serviços.md",
+    "Tabela Consumidor.md",
+    "JSON.md",
+    "Consumidor.md",
+    "Untitled.md"
+  ]
+}
