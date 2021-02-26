@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c047effa787a3169",
+        "id": "03a7436b9180515a",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_Melhor Envio - Data Engineer.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -53,8 +50,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247,
-    "collapsed": true
+    "width": 247
   },
   "right": {
     "id": "f82a544437d68c23",
@@ -63,7 +59,6 @@
       {
         "id": "24a64a3bd0c74d58",
         "type": "tabs",
-        "dimension": 50.58479532163743,
         "children": [
           {
             "id": "9215e5efc34d7ae9",
@@ -71,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Melhor Envio - Data Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,36 +75,22 @@
             }
           }
         ]
-      },
-      {
-        "id": "a21707ea34d6eb62",
-        "type": "tabs",
-        "dimension": 49.41520467836257,
-        "children": [
-          {
-            "id": "ee251b6d1c8e673d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 353,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "_Melhor Envio - Data Engineer.md",
-    "000 Database Model.md",
-    "Request.md",
+    "MelhorEnvioDataEngineer.md",
+    "README.md",
     "Latencia.md",
-    "Database Model.md",
-    "Tabela Serviços.md",
-    "Tabela Consumidor.md",
-    "JSON.md",
     "Consumidor.md",
-    "Untitled.md"
+    "DatabaseModel.md",
+    "FluxoDePensamento.png",
+    "JSON.md",
+    "servico.md",
+    "TabelaServicos.md",
+    "TabelaConsumidor.md"
   ]
 }

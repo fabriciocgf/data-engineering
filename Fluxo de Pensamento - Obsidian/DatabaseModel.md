@@ -2,7 +2,7 @@
 
 |       id     |       consumer_id            |    "service_id"            | "proxy"             | "kong"              | "request"           |    "request_host"  |
 |:------------:|:----------------------------:|:--------------------------:|:-------------------:|:-------------------:|:-------------------:|:------------------:|
-|        1     |![[Tabela Consumidor#^2173f6]]|![[Tabela Serviços#^eadd0d]]|![[Latencia#^d4a72f]]|![[Latencia#^6bb5a5]]|![[Latencia#^b9a400]]|![[Request#^bcad3c]]|
+|        1     |[1](TabelaConsumidor.md#id)|[1](TabelaServicos.md#id)|[1752](Latencia.md#proxy)|[10](Latencia.md#kong)|[2574](Latencia.md#request)|["httpbin.org"](Request.md#host)|
 
 ### id(primary)
 - 1

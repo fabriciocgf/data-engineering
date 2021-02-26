@@ -1,6 +1,5 @@
-
 {
-    [[Request|"request"]]: {
+    ["request"](Request.md): {
         "method": "GET",
         "uri": "/get",
         "url": "http://httpbin.org:8000/get",
@@ -26,7 +25,7 @@
             "access-control-allow-origin": "*"
         }
     },
-    "[[Consumidor|authenticated_entity]]": {
+    "[authenticated_entity](Consumidor.md)": {
         "consumer_id": "80f74eef-31b8-45d5-c525-ae532297ea8e"
     },
     "route": {
@@ -49,7 +48,7 @@
         "strip_path": true,
         "updated_at": 1521555129
     },
-    "[[serviço|service]]": {
+    "[service](servico.md)": {
         "connect_timeout": 60000,
         "created_at": 1521554518,
         "host": "example.com",
@@ -63,7 +62,7 @@
         "updated_at": 1521554518,
         "write_timeout": 60000
     },
-    "[[Latencia|latencies]]": {
+    "[latencies](Latencia.md)": {
         "proxy": 1430,
         "kong": 9,
         "request": 1921

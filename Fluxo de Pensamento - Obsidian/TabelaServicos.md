@@ -1,10 +1,11 @@
 ## Tabela Serviços
 |       id              |    "service_id"    |    "host"          |  "name"            |
 |:---------------------:|:------------------:|:------------------:|:------------------:|
-|1                      |![[serviço#^14715d]]|![[serviço#^a3cf50]]|![[serviço#^52e96d]]|
+|1                      |[d035ffcf-914a-3007-b028-ae18f04d75b4](servico.md#id)|[terry.org](servico.md#host)|[terry](servico.md#name)|
 
-### id(primary)
-- 1 ^eadd0d
+### id
+- (primary)
+- 1
 - 2
 - ...
 
