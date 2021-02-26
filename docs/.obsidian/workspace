@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "servico.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "servico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "servico.md",
+    "TabelaServicos.md",
+    "index.md",
+    "JSON.md",
     "MelhorEnvioDataEngineer.md",
     "README.md",
     "Latencia.md",
     "Consumidor.md",
     "DatabaseModel.md",
-    "FluxoDePensamento.png",
-    "JSON.md",
-    "servico.md",
-    "TabelaServicos.md",
-    "TabelaConsumidor.md"
+    "FluxoDePensamento.png"
   ]
 }
