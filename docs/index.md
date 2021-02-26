@@ -12,7 +12,7 @@
 
 O arquivo [logs.txt](https://drive.google.com/open?id=1GliYD4Q19_f6S88iFsn0dk8dGLhB9YXF) contém informações de log geradas por um sistema gateway, cada solicitação foi registrada em um objeto JSON separado por uma nova linha `\n`, com o seguinte formato:
 
-![JSON](JSON.md)
+[JSON](JSON.md)
 
 ***Algumas considerações sobre o objeto JSON acima:***
 
