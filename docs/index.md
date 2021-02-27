@@ -11,7 +11,6 @@ O arquivo [logs.txt](https://drive.google.com/open?id=1GliYD4Q19_f6S88iFsn0dk8dG
 
 #### [JSON](JSON.md)
 ```json
-
 {
     "request": {
         "method": "GET",
@@ -84,7 +83,6 @@ O arquivo [logs.txt](https://drive.google.com/open?id=1GliYD4Q19_f6S88iFsn0dk8dG
     "client_ip": "127.0.0.1",
     "started_at": 1433209822425
 }
-
 ```
 
 ***Algumas considerações sobre o objeto JSON acima:***
