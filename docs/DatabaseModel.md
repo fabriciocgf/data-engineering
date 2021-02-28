@@ -4,6 +4,8 @@
 |:------------:|:----------------------------:|:--------------------------:|:-------------------:|:-------------------:|:-------------------:|:------------------:|
 |        1     |[1](TabelaConsumidor.md#id)|[1](TabelaServicos.md#id)|[1752](Latencia.md#proxy)|[10](Latencia.md#kong)|[2574](Latencia.md#request)|["httpbin.org"](Request.md#host)|
 
+![Tabelas](Tabelas.png)
+
 ### id(primary)
 - 1
 - 2

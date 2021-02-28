@@ -95,17 +95,20 @@ O arquivo [logs.txt](https://drive.google.com/open?id=1GliYD4Q19_f6S88iFsn0dk8dG
 --------------
 
 ### Requisitos
-
 - Processar o arquivo de [log](JSON.md), extrair informações e salvá-las em um banco de dados.
 - Estruturar esse [banco](DatabaseModel.md) de forma relacional.
 - Buscar a normalização desse banco de dados.
+![Tabelas](Tabelas.png)
 - Gerar um relatório para cada descrição abaixo, em formato csv: 
 	- [Requisições](Request.md) por [consumidor](TabelaConsumidor.md);
-		- Principais caracteristicas de [Consumidor](Consumidor.md) 
+		- Principais caracteristicas de [Consumidor](Consumidor.md)
+ 
 	- Requisições por [serviço](TabelaServicos.md);
-		- Principais caracteristicas de [servico](servico.md) 
+		- Principais caracteristicas de [servico](servico.md)
+ 
 	- Tempo médio de request, proxy e kong por serviço.
-		- Principais caracteristicas de [Latencia](Latencia.md) 
+		- Principais caracteristicas de [Latencia](Latencia.md)
+ 
 - Documentar passo a passo de como executar o teste através de um arquivo [README.md](README.md).
 - Efetue o `commit` de todos os passos do desenvolvimento em um ***git público*** de sua preferência e disponibilize apenas o link para o repositório.
 
