@@ -1,3 +1,7 @@
+para visualizar de forma melhor como as ideias se relacionam use o software [Obsidian](https://obsidian.md/) onde pode ser visto de melhor forma e até de forma gráfica como as ideias se conectam.
+![FluxoDePensamento](FluxoDePensamento.png)
+abra a pasta docs como um Vault no obsidian.
+
 ### Tecnologias
 
 - Python
@@ -111,4 +115,3 @@ O arquivo [logs.txt](https://drive.google.com/open?id=1GliYD4Q19_f6S88iFsn0dk8dG
  
 - Documentar passo a passo de como executar o teste através de um arquivo [README.md](README.md).
 - Efetue o `commit` de todos os passos do desenvolvimento em um ***git público*** de sua preferência e disponibilize apenas o link para o repositório.
-

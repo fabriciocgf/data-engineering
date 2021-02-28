@@ -39,7 +39,7 @@ Adicione o usuário que é utilizado em nosso notebook:
 CREATE USER 'test'@'localhost' IDENTIFIED BY '1234';
 ```
 
-se desejar alterar o usuário, deve-se alterar a seguinte string no notebook:
+se desejar alterar o usuario, deve-se alterar a seguinte string no notebook:
 ```python
 user = 'test:1234'
 ```
@@ -84,3 +84,7 @@ Para executar o script abra o shell na pasta onde o repositório foi clonado e e
 python etldataeng.py
 ```
 Após a execução do script confira os dados salvos nas pastas services e consumers.
+
+## Visualize o fluxo de pensamento para resolver este desafio
+
+O fluxo pode ser acessado neste link, mas para visualizar de forma melhor como as ideias se relacionam use o software [Obsidian](https://obsidian.md/) onde pode ser visto de melhor forma e até de forma gráfica como as ideias se conectam. abra a pasta docs como um Vault no obsidian.
