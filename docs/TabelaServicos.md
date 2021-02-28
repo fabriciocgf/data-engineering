@@ -1,7 +1,7 @@
 ## Tabela Serviços
-|id|"service_id"|"host"|"name"|
-|:-:|:-:|:-:|:-:|
-|1|[d035ffcf-914a-3007-b028-ae18f04d75b4](servico.md#id)|[terry.org](servico.md#host)|[terry](servico.md#name)|
+|  id  |                     "service_id"                      |            "host"            |          "name"          |
+| :--: | :---------------------------------------------------: | :--------------------------: | :----------------------: |
+|  1   | [d035ffcf-914a-3007-b028-ae18f04d75b4](servico.md#id) | [terry.org](servico.md#host) | [terry](servico.md#name) |
 
 ### id
 - (primary)
